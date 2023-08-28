@@ -1,2 +1,4 @@
 # study-python
-Este é um repositório de estudo de programação onde vou aprender do básico ao avançado utilizando a linguagem Python, vou utilizar como base o curso de Luiz Otávio na Udemy: https://www.udemy.com/course/python-3-do-zero-ao-avancado/ .
+This is a programming study repository where I'm going to learn from basic to advanced using the Python language. I'm going to use Luiz Otávio's course on Udemy as a basis: (pt-BR)https://www.udemy.com/course/python-3-do-zero-ao-avancado/ .
+
+Progress:
