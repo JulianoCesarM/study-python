@@ -9,3 +9,9 @@ type data
 arithmetic operators
 concatenation
 precedence operators
+input
+change typing
+control structure
+relational operators
+logical operators
+Debugger
