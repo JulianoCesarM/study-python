@@ -15,3 +15,8 @@ control structure
 relational operators
 logical operators
 Debugger
+interpolation
+f-strings
+variable and constant
+code complexity
+flags is is not None
