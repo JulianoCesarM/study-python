@@ -20,3 +20,4 @@ f-strings
 variable and constant
 code complexity
 flags is is not None
+repetition structure
