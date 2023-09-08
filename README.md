@@ -4,6 +4,8 @@ This is a programming study repository where I'm going to learn from basic to ad
 
 Progress:
 
+Basic programing logic - complete
+
 comment
 type data
 arithmetic operators
@@ -22,3 +24,6 @@ code complexity
 flags is is not None
 repetition structure
 list, tuple and method
+split, join, strip...
+python interpreter basics
+ternary operations
