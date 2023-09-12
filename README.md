@@ -35,3 +35,7 @@ arguments & parameters;
 scope;
 return;
 \*args;
+Higher Order Functions
+Closure
+Dictionary & methods
+Shallow Copy & Deep Copy
