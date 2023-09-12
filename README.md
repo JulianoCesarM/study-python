@@ -27,3 +27,11 @@ list, tuple and method
 split, join, strip...
 python interpreter basics
 ternary operations
+
+Intermediate programing logic
+
+function;
+arguments & parameters;
+scope;
+return;
+\*args;
