@@ -39,3 +39,7 @@ Higher Order Functions;
 Closure;
 Dictionary & methods;
 Shallow Copy & Deep Copy;
+set;
+lambda;
+packing & unpacking;
+\*\*kwargs;
