@@ -3,3 +3,7 @@ These are screenshots taken from my Notion.
 
 About Comment
 ![Information of comment](comment.png)
+
+Type data
+![Simple data type](simple-data-type.png)
+![Complex data type](complex-data-type.png)
